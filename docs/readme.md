@@ -12,5 +12,8 @@ Give detailed information on when the files were obtained, how they were obtaine
 ### Description
 Briefly describe the contents of the subdirectories and files. You do not necessarily need to describe each file separately, but a user should be able to look at the directory and understand the organization and purpose of the files.
 
+### Terms of Use
+What are the terms or restrictions for using the data or publishing findings? Either state these here or say where they can be found.
+
 ### Notes
 Note anything else you think we should record about the raw data.
